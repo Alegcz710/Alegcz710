@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alegcz710
+- 👋 Hey, I’m @Alegcz710
 - 👀 I’m interested in Python Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m an amatuer level coder.
